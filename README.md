@@ -1,5 +1,5 @@
 <!-- GETTING STARTED -->
-### Prerequisites
+### Preconditions
 
 - Register to get the API token key -  [https://www.weatherbit.io/account/create](https://www.weatherbit.io/account/create)
 - install Java and [download Jmeter](https://jmeter.apache.org/download_jmeter.cgi)
@@ -16,7 +16,7 @@
 - double click jmeter.bat (windows)
 5. change value`s token on 'User Defined Variables' to your API token
 
-### How to run
+### 🚀&nbsp;How to run
 1. open terminal
 2. go to {your directory}/apache-jmeter-5.5/bin
 3. Enter following command, jmeter -n –t test.jmx -l testresults.jtl
